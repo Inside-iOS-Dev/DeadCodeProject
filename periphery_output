@@ -1,3 +1,1 @@
 /DeadCodeProject/ViewController.swift warning: Function 'someMethod2()' is unused
-/DeadCodeProject/ViewController.swift warning: Function 'someMethod3()' is unused
-/DeadCodeProject/ViewController.swift warning: Function 'someMethod4()' is unused
