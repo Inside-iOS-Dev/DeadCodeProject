@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  DeadCodeProject
-//
-//  Created by Alex Bush on 8/20/22.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
@@ -12,8 +5,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
+//        someMethod2()
     }
-
+    
+    private func someMethod2() {
+        // ......
+    }
+    
+    private func someMethod3() {
+        // ......
+    }
 
 }
 
