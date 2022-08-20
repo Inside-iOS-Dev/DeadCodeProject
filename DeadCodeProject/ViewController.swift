@@ -7,12 +7,16 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
 //        someMethod2()
+        someMethod4()
     }
     
     private func someMethod2() {
         // ......
     }
-    
+        
+    private func someMethod4() {
+        // ......
+    }
 
 }
 
