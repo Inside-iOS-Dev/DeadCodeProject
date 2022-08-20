@@ -16,6 +16,10 @@ class ViewController: UIViewController {
     private func someMethod3() {
         // ......
     }
+    
+    private func someMethod4() {
+        // ......
+    }
 
 }
 
